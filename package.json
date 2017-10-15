@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@gitlab.com:adastrasim/modules/diff-state.git"
+    "url": "git@github.com:jonestristand/diff-state.git"
   },
   "keywords": [
     "diff",

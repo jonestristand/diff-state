@@ -1,7 +1,8 @@
 # diff-state
 
 [![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
-TODO: Put more badges here.
+[![npm version](https://badge.fury.io/js/diff-state.svg)](https://badge.fury.io/js/diff-state)
+[![Build Status](https://travis-ci.org/jonestristand/diff-state.svg?branch=master)](https://travis-ci.org/jonestristand/diff-state)
 
 > This is a simple module to diff two state objects that are assumed to contain the same keys. Keys whose value has changed will be returned with their new value.
 
