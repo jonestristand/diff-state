@@ -1,0 +1,24 @@
+{
+  "name": "diff-state",
+  "version": "1.0.0",
+  "description": "A simple function to diff two state objects and return only elements that have had their value changed in the new state",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.com:adastrasim/modules/diff-state.git"
+  },
+  "keywords": [
+    "diff",
+    "patch",
+    "state"
+  ],
+  "author": "Tristan Jones <jones.tristand@gmail.com> (http://tdjones.ca)",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
