@@ -1,6 +1,6 @@
 {
   "name": "diff-state",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple function to diff two state objects and return only elements that have had their value changed in the new state",
   "main": "index.js",
   "scripts": {
