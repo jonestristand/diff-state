@@ -1,5 +1,5 @@
 
-module.exports = function diffState(newState, oldState) 
+var diffState = module.exports = function (newState, oldState) 
 {
   var patch = {};
 
